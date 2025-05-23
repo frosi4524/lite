@@ -27,7 +27,7 @@
 
 ## - Update Auto Reboot jam 12 Malam
 ## - Update Maximal IP User & IP Unlimited
-## setelah REBOOT pakai port di bawah ini :
+## -setelah REBOOT pakai port di bawah ini :
 
 - Port 500
 - Port 40000
