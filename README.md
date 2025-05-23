@@ -27,11 +27,12 @@
 
 ## - Update Auto Reboot jam 12 Malam
 ## - Update Maximal IP User & IP Unlimited
+## - Ijin IP Hub Admin : 081931472448
 
   
 
 
-# INSTALLASI AUTO SCRYPT LITE2
+# INSTALLASI AUTO SCRYPT LITE
 
 ```
 apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/frosi4524/lite/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
