@@ -27,6 +27,15 @@
 
 ## - Update Auto Reboot jam 12 Malam
 ## - Update Maximal IP User & IP Unlimited
+## setelah REBOOT pakai port di bawah ini :
+
+- Port 500
+- Port 40000
+- Port 81
+- Port51443
+- Port 58080
+- Port 666
+
 ## - Ijin IP Hub Admin : 081931472448
 
   
